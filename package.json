@@ -1,0 +1,23 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "基于vuepress搭建的个人博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "刘晓伟",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress-theme-reco": "^1.0.9-alpha.8",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
+  },
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "@vuepress/plugin-medium-zoom": "^1.0.2",
+    "vuepress": "^1.0.2",
+    "vuepress-plugin-flowchart": "^1.4.3"
+  }
+}
