@@ -11,7 +11,7 @@
   "author": "刘晓伟",
   "license": "ISC",
   "dependencies": {
-    "vuepress-theme-reco": "^1.0.9-alpha.8",
+    "vuepress-theme-reco": "^1.6.14",
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
   },
   "devDependencies": {
